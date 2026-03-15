@@ -121,4 +121,4 @@ Power Generated
 
 Clone the repository  
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/aditi-jha25/SolarGuard-Smart-Solar-Power-Forecasting-Fault-Detection-System.git>
